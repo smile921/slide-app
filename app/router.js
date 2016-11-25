@@ -8,6 +8,7 @@ const Router = Ember.Router.extend({
 
 Router.map(function() {
   this.route('slides');
+  this.route('vslides');
 });
 
 export default Router;
