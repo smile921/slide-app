@@ -1,0 +1,25 @@
+.app-slide{
+	height: 98vh;
+	margin: 0;
+	width: 100%;
+	
+}
+.slide1{
+	background-color: #ffe3ff;
+}
+
+.slide2{
+	background-color: #e3ffff;
+}
+
+.slide3{
+	background-color: #fe3fff;
+}
+
+.slide4{
+	background-color: #fffe3f;
+}
+
+.slide5{
+	background-color: #fff9e3;
+}
